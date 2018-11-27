@@ -9,5 +9,5 @@ Multi-Person Pose Estimation and Human Parsing，多人的姿态估计与人体�
 ubuntu\
 python3.6\
 tensorflow-gpu==1.4.0\
-kerase==2.0.8\
+kerase==2.0.8
 
