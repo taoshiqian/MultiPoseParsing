@@ -5,9 +5,9 @@ Multi-Person Pose Estimation and Human Parsing，多人的姿态估计与人体�
 
 ![example](https://github.com/taoshiqian/MultiPoseParsing/blob/master/example-MultiPoseParsing/example.jpg)
 
-环境：
-ubuntu
-python3.6
-tensorflow-gpu==1.4.0
-kerase==2.0.8
+环境：\
+ubuntu\
+python3.6\
+tensorflow-gpu==1.4.0\
+kerase==2.0.8\
 
